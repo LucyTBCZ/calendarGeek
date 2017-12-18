@@ -16,4 +16,6 @@ User Stories
     planning poker: 24
    
     US6 : Connexion avec Facebook
+
+test git
    
