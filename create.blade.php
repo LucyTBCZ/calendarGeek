@@ -78,7 +78,7 @@
             @endif
 
             <div class="content">
-              <p>Page Welcome</p>
+              <p>Page Create</p>
         </div>
       </div>
     </body>

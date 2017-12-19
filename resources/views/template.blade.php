@@ -78,7 +78,7 @@
             @endif
 
             <div class="content">
-              <p>Page Welcome</p>
+              <p>Template</p>
         </div>
       </div>
     </body>
